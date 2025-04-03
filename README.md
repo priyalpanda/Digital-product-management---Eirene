@@ -1,5 +1,5 @@
 # Digital-product-management---Eirene
-Eirene – Mental Health Assistance App
+Eirene – Mental Health Assistance App (https://www.figma.com/proto/EDqR2ookQwKHyvmWikKZF8/Eirene?node-id=53-1105&t=HBsaVPStGwS6QLLX-1)
 Eirene is a mobile application designed to support mental health and well-being, focusing on helping students manage academic pressure and life balance. The app provides personalized guided meditations, binaural beats for relaxation, and access to licensed psychologists through private chat sessions. Eirene empowers users to manage stress effectively, stay focused, and maintain a healthy mental state.
 
 Key Features
